@@ -1,0 +1,115 @@
+body{
+    background-color: #fff;
+    color: black;
+}
+.mydark{
+    background-color: black;
+    color: #fff;
+}   
+
+.navbar li  {
+    list-style: none;
+    font: size 20px; ;
+    text-transform: capitalize;
+    display:inline-block ;
+    list-style: none;
+    display: inline; 
+    color: #fff;
+    height: auto;
+    padding: 0px 20px;
+    font-size: 20px;
+    position: relative;
+
+
+}
+.navbar{
+    width: 100%;
+    height: 65px;
+    background-color: black;
+    padding-left: 0px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    padding-top: 50px;
+    margin: 0;
+    
+}
+.navbar .li .logo{
+    justify-content: flex-end;
+}
+.red_footer{
+    width: 100%;
+    background-color:red;
+    padding: 6px;
+    color: ghostwhite;
+    text-transform: uppercase;
+    text-align: center;
+
+    
+}
+.red_footer marquee{
+    text-transform: capitalize;
+    font-size: xx-large;
+    height: 50px;
+    width: 80%;
+}
+#abcfirehydrant {
+    background: url(http://abcfireindia.com/wp-content/uploads/2015/04/fireaccident.jpg);
+    width: 1349px;
+    height: 30vh;
+    padding: 5px;;
+    margin: 0px;
+  
+}
+
+#abcfirehydrant {
+    background-size: cover !important;
+}
+.grey {
+    background-color: rgb(228, 226, 226);
+    height: 15vh;
+    width: 100%;
+    padding: 2px;
+    margin-left: auto;
+    text-align: right;
+    color: #fff;
+    text-transform: uppercase;
+
+}
+.red1{
+    background-color: red;
+    width: 100%;
+    height: 10vh;
+    padding: 30px;
+    color: #fff;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: solid;
+    font-weight: bolder;
+}
+.white{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 10vh;
+    padding: 5px ;
+    margin-left:55px;
+    background: fixed;
+}
+.bottom_section{
+    background-color: black;
+    color: #fff;
+}
+.bottom_section .image{
+    text-align: center;
+}
+.bottom_section .list{
+    list-style: none;
+    text-transform: capitalize;
+}
+.bottom_section .capital{
+    font-size: x-large;
+    text-transform: capitalize;
+
+}
+
+
+
